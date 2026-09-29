@@ -1,0 +1,1 @@
+the javahello has String name and cname and int id
